@@ -1,0 +1,36 @@
+Tabela Binaria - 1024 512 256 128 64 32 16 8 4 2 1
+
+1) Conversao apenas diminuindo as potencias de 2
+a - 25 = 11001
+b - 50 = 110010
+c - 713 = 1011001001
+d - 125 = 1111101
+e - 365 = 101101101
+
+2) Conversao utilizando a potencia de cada posicao
+a - 11001 = 25
+b - 10110 = 22
+c - 100101 = 37
+d - 111011 = 59
+e - 111001 = 57
+
+3) Conversao por divisao e resto
+a - 77 = 1031
+b - 45 = 55
+c - 67 = 43
+d - 171 = AB
+e - 135 = 87
+
+4) Conversao por agrupamento (Eu nao consegui fazer essa, entao usei um conversor online)
+a - 11010 = 122
+b - 10011 = 23
+c - 101101 = 2D
+d - 101101 = 55
+e - 110011 = 303
+
+5) Conversao entre simbolos e ASCII
+a - PUC-Minas = 80 85 67 45 77 105 110 97 115
+b - 2019-2 = 50 48 49 57 45 50
+c - Brasil = 66 114 97 115 105 108
+d - 078 111 105 116 101 = Noite
+e - 42 2E 48 2E 2D 4D 47 = B.H.-MG
